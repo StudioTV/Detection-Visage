@@ -1,6 +1,6 @@
 # Détection-Visage
 
-Vous trouverez ci-joint le code permettant la detection d'un visage, réalisé en python à l'aide d'opencv.
+Vous trouverez ci-joint le code permettant la détection d'un visage, réalisé en python à l'aide d'opencv.
 
 # Author
 

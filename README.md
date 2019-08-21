@@ -1,4 +1,4 @@
-# D-tection-Visage
+# Détection-Visage
 
 Vous trouverez ci-joint le code permettant la detection d'un visage, réalisé en python à l'aide d'opencv.
 
